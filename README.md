@@ -1,4 +1,11 @@
-# videochat
+# Web RTC sample using Firebase and Vuejs
+
+## Using Web RTC Peer Connection 
+```
+Video Chat / Authentication with Firebase / 2 way data channel
+Create an Account - Add Contacts - Host Private Video Calls
+
+```
 
 ## Project setup
 ```
