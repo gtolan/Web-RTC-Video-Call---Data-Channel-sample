@@ -2,8 +2,16 @@
 
 ## Using Web RTC Peer Connection 
 ```
-Video Chat / Authentication with Firebase / 2 way data channel
-Create an Account - Add Contacts - Host Private Video Calls
+Video Chat 
+Authentication with Firebase 
+2 way data channel
+Create an Account 
+Add Contacts 
+Host Private Video Calls
+
+Vuejs and Firebase
+Firebase collects offers and answers for callers and callee candidates
+Refresh connection on page reload
 
 ```
 
