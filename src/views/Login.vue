@@ -56,6 +56,7 @@ export default {
 main {
   margin-top: 3rem;
   min-height: 100vh;
+  height: 644px;
 }
 
 .fade-enter-active,

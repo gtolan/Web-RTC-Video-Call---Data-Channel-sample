@@ -40,7 +40,7 @@ export default {
       };
       this["authentication/register"](payload)
         .then(() => {
-          this.$router.push("/dashboard");
+          this.$router.push("/video-call");
         })
         .catch(() => {
           console.log("error-registering");

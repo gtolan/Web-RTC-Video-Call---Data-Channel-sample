@@ -541,5 +541,29 @@ button.hamburger {
     transform-origin: center;
     margin-left: 1rem;
   }
+
+  .hamburglar {
+    transform: scale(1);
+    margin: 0;
+    position: relative;
+    display: block;
+    width: 5rem;
+    height: 4rem;
+
+    .burger-icon {
+      position: absolute;
+      padding: 0;
+      height: 5rem;
+      min-width: 1rem;
+      margin: 0;
+      margin-left: calc(1.5rem - 15px);
+      .burger-container {
+        transform: scale(1);
+        transform-origin: center;
+        margin-left: 0.5rem;
+        margin-top: 18px;
+      }
+    }
+  }
 }
 </style>

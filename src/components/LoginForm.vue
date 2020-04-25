@@ -40,7 +40,7 @@ export default {
           this.errorMsg = "Success!";
           this["authentication/login"]().then(() => {
             console.log("after login");
-            this.$router.push("/dashboard");
+            this.$router.push("/video-call");
           });
         })
         .catch(err => {

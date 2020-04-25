@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div class="footer-top">
-      <p>This sample is a few hours spent with WebRTC and Vuejs - I really enjoyed exploring the possible use cases and advantages for WebRTC Peer Connection over others</p>
+      <p>*This sample is a few hours spent with WebRTC and Vuejs - I really enjoyed exploring the possible use cases and advantages OF WebRTC Peer Connection</p>
     </div>
     <div class="footer-mid">
       <a href="https://github.com/gtolan" target="_blank" rel="noreferrer">
